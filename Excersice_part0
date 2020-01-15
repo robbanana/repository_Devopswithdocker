@@ -1,0 +1,5 @@
+roberto@ROB:~/Desktop$ 
+roberto@ROB:~/Desktop$ docker-compose --version
+docker-compose version 1.25.0, build 0a186604
+roberto@ROB:~/Desktop$ ^C
+roberto@ROB:~/Desktop$ 
